@@ -1,8 +1,19 @@
 # SemiStarGAN
 ## SemiStarGAN: Semi-Supervised Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
 
-Source code ACCV2018 paper
+Source code of [ACCV2018 paper](http://iagentntu.github.io/people/pdf/Hsu_ACCV18_SemiStarGAN.pdf).
 
+## Citation
+```
+@inproceedings{Hsu:ACCV2018,
+  year = { 2018 },
+  month = { Nov },
+  booktitle = { ACCV },
+  url = { /people/pdf/Hsu_ACCV18_SemiStarGAN.pdf },
+  title = { SemiStarGAN: SemiSupervised Generative Adversarial Networks for Multi-Domain Image-to-Image Translation },
+  author = { Shu-Yu Hsu and Chih-Yuan Yang and Chi-Chia Huang and Jane Yung-jen Hsu },
+}
+```
 ## Prerequisites
 * Python 3.5
 * Tensorflow 1.3.0
